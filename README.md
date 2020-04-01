@@ -7,7 +7,13 @@ So you're interested in Commit and you're looking for more information about us.
 
 ## Graduation Case Studies
 
+- [Procurify and Clara Tsang](https://medium.com/commit-engineering/committed-to-success-clara-tsang-software-engineer-at-procurify-fdc1e3998bab)
 - [Planworth and Hai Hoang](https://medium.com/commit-engineering/committed-to-success-hai-hoang-tech-lead-at-planworth-38f8442cebe9)
+
+## Client Case Studies
+
+- [Procurify](https://medium.com/commit-engineering/committed-to-success-simon-stanlake-svp-procurify-8878c0ae3b9b)
+- [Planworth](https://medium.com/commit-engineering/committed-to-success-tarsem-basraon-co-founder-at-planworth-5761b84f36d7)
 
 ## Blog
 [Click Here](https://medium.com/commit-engineering)
