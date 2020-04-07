@@ -21,6 +21,27 @@ So you're interested in Commit and you're looking for more information about us.
 
 ## FAQ
 
+### How is the COVID-19 situation affecting Commit?
+
+Due to being a fully-distributed company, Commit's day-to-day operations have been moving forward as usual.
+
+At the macro-level, there are two items that have affected us in a positive way:
+
+  - Companies have been laying off many talented engineers and we've been able to have many calls with these engineers. Due to the business model of Commit, having more engineers means a boost in revenue.
+
+  - Companies, with a drop in Engineering capacity and requiring remote expertise, now require exactly what Commit is offering. We've had an influx of additional interest from startups because they're currently unable to take on permanent engineers as well as don't know how to truly operate remotely.
+
+### How remote is Commit?
+
+Commit is a fully-distributed, remote-first company, much different than a remote-friendly company. All our processes are built around being remote, some policies or events we've set up:
+  - Asynchronous and transparent company updates
+  - Bi-weekly company meetings and lightning talks
+  - Fitness over Video
+  - Respectful of meeting schedules (we don't spend 10 minutes at the beginning chatting or go over time)
+  - Respectful of everyone's Deep Work schedules
+
+We have our clients agree to being ok with remote as well. That being said, if you prefer to be in the office, we have clients in both Vancouver and Toronto and they would be happy to have you in their office (optional).
+
 ### How is Commit different from an software consulting agency?
 
 Commit is not a consultancy because we are focussed on finding a great match for our engineers, not just completing work and getting billable hours. We allow our engineers to help decide what they work on and give them room to build up skills outside of client hours.
